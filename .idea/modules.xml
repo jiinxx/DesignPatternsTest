@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreatorTest/CreatorTest.iml" filepath="$PROJECT_DIR$/CreatorTest/CreatorTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorTest/DecoratorTest.iml" filepath="$PROJECT_DIR$/DecoratorTest/DecoratorTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternsTest.iml" filepath="$PROJECT_DIR$/DesignPatternsTest.iml" />
     </modules>
